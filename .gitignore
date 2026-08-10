@@ -1,0 +1,14 @@
+# Generated output files
+client_pain_radar.md
+agents/utils/_temp_client_pain.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db

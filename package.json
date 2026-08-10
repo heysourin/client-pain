@@ -1,0 +1,25 @@
+{
+  "name": "client-pain",
+  "version": "1.0.0",
+  "description": "AI agent that discovers client pain points and buyer intent across 11+ platforms, scores intent 1-10, and generates personalized AI outreach drafts.",
+  "main": "index.js",
+  "bin": {
+    "skills": "./bin/cli.js"
+  },
+  "files": [
+    "agents",
+    "bin"
+  ],
+  "scripts": {},
+  "keywords": [
+    "ai-agent",
+    "client-pain",
+    "buyer-intent",
+    "lead-generation",
+    "monetization",
+    "outreach-drafts",
+    "skills"
+  ],
+  "author": "Sourin (@nexthertz_ai)",
+  "license": "MIT"
+}
