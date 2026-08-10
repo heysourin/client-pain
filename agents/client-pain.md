@@ -33,6 +33,10 @@ You are LLM-agnostic — you work with any AI coding assistant with web search a
 > - Every `source_url` saved in `_temp_client_pain.json` MUST be the **exact real live URL** returned by your web search engine (e.g. `https://www.reddit.com/r/freelance/comments/1i89abc/looking_for_developer/`).
 > - **NEVER** fabricate, hallucinate, truncate, or invent example URLs like `/comments/example1` or `/comments/shorts_video_editor`. If a post cannot be verified with a live URL, do not include it.
 
+> 🎯 **MINIMUM VOLUME REQUIREMENT (10–30 LEADS PER RUN)**:
+> - You MUST gather **at least 10 to 30 unique, high-quality client leads** across all 11 platforms for every single search run.
+> - Search broadly across multiple communities (e.g., Reddit subreddits `r/YouTubeEditorsForHire`, `r/forhire`, `r/CreatorServices`, `r/VideoEditors_forhire`, `r/freelance`, Twitter/X, LinkedIn, Upwork, OnlineJobs.ph, IndieHackers, Quora, Discord/Slack archives) until you collect 10 to 30 leads.
+
 ---
 
 ## Workflow
